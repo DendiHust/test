@@ -1,0 +1,4 @@
+[core]
+    remote = qj_model_remote
+['remote "qj_model_remote"']
+    url = ssh://192.168.1.151/home/qj_model/model_test
